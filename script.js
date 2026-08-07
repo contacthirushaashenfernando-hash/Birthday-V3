@@ -12,8 +12,8 @@ document.addEventListener('DOMContentLoaded', () => {
         step4: document.getElementById('step4'),
     };
 
-    const recipientName = "Sapthesh"; // Customizable Name
-    const messageGreeting = "Happy Birthday,"; // Customizable Greeting
+    const recipientName = "Chooti"; // Customizable Name
+    const messageGreeting = "Happy Birthday my love ❤️ Today is all about celebrating you and the beautiful person you are. I’m truly grateful to have you in my life. Your smile, your kindness, and the moments we share mean so much to me.I hope this new year of your life brings you endless happiness, success, and the courage to achieve all your dreams. Keep shining and never forget how special you are.I’m always here cheering for you. Happy Birthday ❤️,"; // Customizable Greeting
 
     // --- Utility Function to Transition Steps ---
     function transitionToStep(targetStepId) {
